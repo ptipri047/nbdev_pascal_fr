@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_pascal_fr"
+  site-url: "https://ptipri047.github.io/nbdev_pascal_fr"
+  description: "my implem"
+  repo-branch: main
+  repo-url: "https://github.com/ptipri047/nbdev_pascal_fr"
